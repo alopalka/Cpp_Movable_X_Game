@@ -1,5 +1,5 @@
 # cppSimpleGame
-Really simple game in c++ created only to pass my subject
+Really simple game in c++
 
 # Game had to do these things:
 - Make "X" symbol movable
