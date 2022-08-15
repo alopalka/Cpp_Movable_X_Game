@@ -1,8 +1,15 @@
-# cppSimpleGame
-Really simple game in c++
+# Movable "X" C++ Game
 
-### Things that game contains:
-- Movable "X" symbol
-- Boundries that are solid "X" can't cross them
-- Resizable "X" symbol
+## What is this project?
 
+This project is simple game written in C++.
+
+## Features
+
+- Resizing symbol
+- Motion of symbol
+- Colision with boundries 
+
+## Instalation
+
+No need of instalation. Download and run
